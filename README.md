@@ -23,4 +23,5 @@
 		
 # Run
 	BuiTruongThanhVu_20-Nodejs/movieapi>yarn start        to start application
+	Open http://localhost:3000/api-docs/ in Browser to see Swagger-api-docs
 	
