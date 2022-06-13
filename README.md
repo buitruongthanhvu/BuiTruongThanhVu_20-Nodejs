@@ -17,5 +17,9 @@
 		Go to file BuiTruongThanhVu_20-Nodejs/movieapi/src/config/config.json
 		Change "username" and "password" as your database
 		
+	Install Postman
+		Go to file script in path BuiTruongThanhVu_20-Nodejs/Movie.postman_collection.json
+		Import Movie.postman_collection.json to Postman
+		
 # Run
 	BuiTruongThanhVu_20-Nodejs/movieapi>yarn start        to start application
