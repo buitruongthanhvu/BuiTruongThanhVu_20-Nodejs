@@ -3,7 +3,9 @@
 	
 # Install
 	Install package
+		BuiTruongThanhVu_20-Nodejs/movieapi>npm install
 		BuiTruongThanhVu_20-Nodejs/movieapi>npm install --global yarn
+		BuiTruongThanhVu_20-Nodejs/movieapi>npm install mysql
 		
 	Database Mysql
 		Create a Database name moviedb
